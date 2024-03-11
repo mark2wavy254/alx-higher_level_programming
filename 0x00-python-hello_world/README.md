@@ -27,3 +27,6 @@ string. Your code must be 3 lines long. You have to use f-strings tips.
 
 7. Copy - Cut - Paste
 Complete this source code
+
+8. Create a new sentence
+- Complete this source code to print object-oriented programming with Python, followed by a new line.
