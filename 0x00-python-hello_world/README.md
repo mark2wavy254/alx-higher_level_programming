@@ -18,3 +18,6 @@ string. Your code must be 3 lines long. You have to use f-strings tips.
 
 4. Print float
 - Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
+
+5. Print string
+- Complete this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
