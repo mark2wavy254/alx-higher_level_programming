@@ -24,3 +24,6 @@ string. Your code must be 3 lines long. You have to use f-strings tips.
 
 6. Play with strings
 - Complete this source code to print Welcome to Holberton School!
+
+7. Copy - Cut - Paste
+Complete this source code
