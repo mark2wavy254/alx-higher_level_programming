@@ -13,3 +13,6 @@ This directory contains solutions to the tasks for the project 0x01. Python - if
 - Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line. Print all the letters except q and e.
 
 4. Write a program that prints all numbers from 0 to 98 in decimal and hexadecimal (as in the following example).
+
+5. 00..99
+- Write a program that prints numbers from 0 to 99.
