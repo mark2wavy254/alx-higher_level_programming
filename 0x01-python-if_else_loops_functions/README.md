@@ -8,3 +8,6 @@ This directory contains solutions to the tasks for the project 0x01. Python - if
 
 2. I sometimes suffer from Insomnia. And when I can't fall asleep, i play what I call the alphabet game.
 - Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+
+3. When I was having that alphabet soup, I never thought that it would pay off
+- Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line. Print all the letters except q and e.
