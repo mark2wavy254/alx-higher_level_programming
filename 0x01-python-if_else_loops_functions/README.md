@@ -19,3 +19,6 @@ This directory contains solutions to the tasks for the project 0x01. Python - if
 
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need.
 - Write a program that prints all possible different combinations of two digits
+
+7. islower
+- Write a fucntion that check for lowercase character.
