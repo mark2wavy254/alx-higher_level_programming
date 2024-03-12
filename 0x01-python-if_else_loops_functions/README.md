@@ -16,3 +16,6 @@ This directory contains solutions to the tasks for the project 0x01. Python - if
 
 5. 00..99
 - Write a program that prints numbers from 0 to 99.
+
+6. Inventing is a combination of brains and materials. The more brains you use, the less material you need.
+- Write a program that prints all possible different combinations of two digits
