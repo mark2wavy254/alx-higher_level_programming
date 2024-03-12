@@ -4,4 +4,4 @@ for m in range(48, 57):
         if n > m:
             print("{}{}, ".format(chr(m), chr(n)), end='')
         if m == 56 and n == 57:
-            print("{}{}".format(chr(m), chr(n)), end='\n')
+            print("", end='\n')
