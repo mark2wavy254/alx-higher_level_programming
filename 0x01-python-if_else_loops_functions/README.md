@@ -22,3 +22,6 @@ This directory contains solutions to the tasks for the project 0x01. Python - if
 
 7. islower
 - Write a fucntion that check for lowercase character.
+
+8. to uppercase
+- Write a function taht prints a string in uppercase followed by a new line

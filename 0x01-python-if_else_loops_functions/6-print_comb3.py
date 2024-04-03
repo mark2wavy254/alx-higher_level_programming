@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-for m in range(48, 57):
-    for n in range(49, 58):
-        if n > m:
-            print("{}{}, ".format(chr(m), chr(n)), end='')
-        if m == 56 and n == 57:
-            print("", end='\n')
+for m in range(0, 10):
+    for n in range(m + 1, 10):
+        if m == 8 and n == 9:
+            print('89')
+        else:
+            print('{}{}, '.format(m,n), end='')
