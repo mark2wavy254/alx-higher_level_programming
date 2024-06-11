@@ -52,13 +52,13 @@ class Square:
         return (self.__size * self.__size)
 
     def my_print(self):
-        """prints the square using the '#' symbol """
+        """prints the square using the '#' symbol"""
 
         if self.__size == 0:
             print("")
             return
 
-        [print("", end="") for i in range(0, self.__position[1])]
+        [print("") for i in range(0, self.__position[1])]
         for i in range(0, self.__size):
             [print(" ", end="") for j in range(0, self.__position[0])]
             [print("#", end="") for k in range(0, self.__size)]
